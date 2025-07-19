@@ -3,7 +3,7 @@
 I'm **Osama Ahmed** — a **Python Developer** with a passion for **AI, Machine Learning (ML), and Data Science**.  
 
 ### 🔭 Currently working on:
-- [**100 Days of Python Challenge**](#): Building real-world Python projects to sharpen my skills.  
+- [**100 Days of Python Challenge**](https://github.com/Ozy2022/python-Challenge-100): Building real-world Python projects to sharpen my skills.  
 - Exploring AI-driven tools and automation projects.  
 
 ### 🌱 Currently learning:
