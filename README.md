@@ -322,7 +322,7 @@ timeline
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-albaydhani-04a31b227/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Osama-Ahmed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ozy2022)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.os.2026@gmail.com)
 
 </div>
@@ -337,7 +337,7 @@ timeline
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Osama-Ahmed&style=flat-square&color=36BCF7FF)
+![Profile Views](https://komarev.com/ghpvc/?username=Ozy2022&style=flat-square&color=36BCF7FF)
 
 *⭐ If you find my work interesting, please consider starring my repositories!*
 
