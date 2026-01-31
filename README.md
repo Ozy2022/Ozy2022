@@ -300,8 +300,6 @@ timeline
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ozy2022&style=flat-square&color=36BCF7FF)
-
 *⭐ If you find my work interesting, please consider starring my repositories!*
 
 </div>
