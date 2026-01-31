@@ -157,43 +157,6 @@ flowchart LR
 
 ---
 
-## 🗃️ Database Schema
-
-```mermaid
-erDiagram
-    USERS ||--o{ SAMPLES : creates
-    SAMPLES ||--o| REPORTS : generates
-    
-    USERS {
-        int id PK
-        string name
-        string email UK
-        string password
-        string role
-    }
-    
-    SAMPLES {
-        string id PK
-        int user_id FK
-        string patient_id
-        string status
-        string risk_level
-        float confidence
-        string model_id
-        timestamp created_at
-        timestamp completed_at
-    }
-    
-    REPORTS {
-        int id PK
-        string sample_id FK
-        json prediction_result
-        timestamp created_at
-    }
-```
-
----
-
 ## 🖥️ UI Features
 
 <div align="center">
