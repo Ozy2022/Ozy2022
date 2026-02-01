@@ -7,7 +7,7 @@
 </div>
 
 ---
-
+## 📈 My Current Progress Projects
 ## 🧬 Featured Project: EpiNova Lab Portal
 
 <div align="center">
@@ -245,8 +245,8 @@ flowchart LR
 | Part | Topic | Technologies | Status |
 |:----:|:------|:-------------|:------:|
 | **1** | SQL Data Exploration | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ✅ Completed |
-| **2** | Tableau Visualization | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | 🔄 In Progress |
-| **3** | Data Cleaning in SQL | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ⏳ Upcoming |
+| **2** | Tableau Visualization | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | ✅ Completed |
+| **3** | Data Cleaning in SQL | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | 🔄 In Progress |
 | **4** | Correlation in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ⏳ Upcoming |
 
 ### Skills Being Developed:
