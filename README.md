@@ -14,7 +14,7 @@ I'm a **Software Engineer | QA & Quality Control Specialist | AI Solutions Build
 
 My interests span:
 
-- ✅ Quality Assurance, Test Strategy & Process Improvement
+- ✅ Quality Management, Governance & Continuous Improvement
 - 🌐 Full-Stack Web Development (Next.js · Node.js · PostgreSQL)
 - 🤖 AI Solutions — LLM Integration, Automation & Intelligent Features
 - 🧠 Machine Learning & Data-Driven Insights
@@ -24,18 +24,19 @@ My interests span:
 
 ## 🧪 Professional Experience
 
-### QA & Quality Control Specialist
+### QA & Quality Control Specialist (Quality Officer — مسؤول الجودة)
 📍 Skills Company — Jeddah International Higher Institute for Training
 
-Responsible for quality across the software delivery lifecycle:
+Own the institute's **quality and institutional sustainability system** across both branches, turning quality from an audit-time activity into a daily practice. The role is built on governance, performance measurement, and continuous improvement.
 
-- Writing and executing test plans, test cases, and acceptance criteria
-- Manual and exploratory testing of web applications
-- Defect tracking, triage, and root-cause analysis with development teams
-- Quality metrics, release readiness reviews, and process improvement
-- Aligning quality processes with **ISO 27001** and **COBIT** frameworks
-
-<!-- TODO: add 1–2 quantified outcomes, e.g. "Reduced post-release defects by X%" -->
+- **Run the quality cycle** — Plan → Implement → Measure → Analyze → Improve → Re-apply — across training and administrative processes
+- **Unify practices across two branches** so procedures, documentation, and evidence are consistent and audit-ready
+- **Regulatory compliance** — prepare for and follow up on Education & Training Evaluation Commission (ETEC) visits; close findings with documented improvement plans
+- **KPIs & monthly quality reporting** — define performance indicators, analyze results, and deliver monthly quality reports and stakeholder reports to leadership
+- **Continuous documentation** — maintain evidence of practices, procedures, and improvement cycles as a governance record, not a one-off exercise
+- **Stakeholder coverage** — trainers, admin staff, programs, trainees, graduates, partners, and training materials are all inside the quality scope
+- **Improvement opportunities** — identify gaps, prioritize them by risk, and drive improvement plans to completion
+- Authored the institute's **Quality & Institutional Sustainability System proposal** (vision, objectives, scope, cycle, monthly deliverables, enablement structure)
 
 ---
 
@@ -110,9 +111,8 @@ Data exploration and visualization project using global COVID-19 datasets.
 
 ## 🧠 Technical Skills
 
-**Quality Assurance**
-Test Planning & Test Case Design · Manual & Exploratory Testing · Defect Tracking & Triage · Release Readiness · Process Improvement · ISO 27001 / COBIT alignment
-<!-- TODO: add tools you use, e.g. Jira, Postman, Playwright, Cypress -->
+**Quality Management & Governance**
+Quality Cycle (PDCA) · Institutional Governance · KPI Design & Performance Measurement · Compliance & Accreditation (ETEC) · Audit Readiness & Evidence Documentation · Continuous Improvement Plans · Stakeholder Reporting · ISO 27001 / COBIT frameworks
 
 **Frontend**
 React · Next.js · JavaScript · HTML / CSS
@@ -149,7 +149,7 @@ Git & GitHub · Jupyter Notebook · Docker (Basic) · Linux
 
 - Building AI Agents & RAG Applications
 - Machine Learning Fundamentals
-- Test Automation (Playwright / Cypress)
+- Software QA & Test Automation (Playwright / Cypress)
 - Advanced Python for AI Development
 
 ---
