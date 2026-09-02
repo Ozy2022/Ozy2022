@@ -25,7 +25,7 @@ My interests span:
 ## 🧪 Professional Experience
 
 ### QA & Quality Control Specialist
-📍 [Company Name] <!-- TODO: add your current employer -->
+📍 Skills Company — Jeddah International Higher Institute for Training
 
 Responsible for quality across the software delivery lifecycle:
 
@@ -41,37 +41,39 @@ Responsible for quality across the software delivery lifecycle:
 
 ## 🚀 Featured Projects
 
-### 📬 WorkPulse — SaaS Product
-**[Live App →](https://workpulse.example.com)** · **[Repository →](https://github.com/Ozy2022/workpulse)** <!-- TODO: replace with real URLs -->
+### 📬 WorkPulse — Arabic-first Project Management SaaS
+**[Live Site → workpulses.app](https://www.workpulses.app/)** · **[App → app.workpulses.app](https://app.workpulses.app/)** <!-- TODO: add repo link if public -->
 
-A full production **SaaS application** built and shipped end to end — from database schema and API design to UI, authentication, and deployment.
+A production **SaaS platform** that brings projects, tasks, discussions and reports into one workspace. Built **Arabic-first by construction** — every screen is laid out for both RTL and LTR from the same codebase, not translated afterwards. Designed, built, and supported solo, end to end.
 
 <!-- TODO: add a screenshot, e.g. ![WorkPulse](./assets/workpulse.png) -->
 
 **Stack:** Next.js · React · Node.js · Express · PostgreSQL (Neon) · Prisma
 
 **Highlights**
-<!-- TODO: replace with real details -->
-- [Core feature 1 — e.g. multi-tenant workspaces with role-based access]
-- [Core feature 2 — e.g. email/notification pipeline]
-- [Core feature 3 — e.g. subscription billing, dashboards, etc.]
-- Type-safe data layer with Prisma on serverless Postgres (Neon)
+- **Projects & tasks** with priorities, types, due dates, and multiple assignees per task
+- **Threaded discussion on tasks** — editable, recoverable after deletion, and linkable down to a single comment
+- **Live dashboard** showing workspace figures, project progress, and team workload on sign-in
+- **Bilingual notifications** — assignment emails and deadline reminders in Arabic, English, or both, configured per workspace
+- **Filterable reports with PDF export** — status / employee / project / date-range filters, browser preview that matches the exported document, one rendering engine for RTL and LTR
+- **Multi-tenant workspaces** with invitation-based onboarding and admin / employee roles
 
 ---
 
 ### 🏢 Epinova — Company Landing Page
-**[Live Site →](https://epinova.example.com)** · **[Repository →](https://github.com/Ozy2022/epinova-landing)** <!-- TODO: replace with real URLs -->
+**[Live Site → epinova.co](https://epinova.co/)** <!-- TODO: add repo link if public -->
 
-Marketing landing page designed and developed for **Epinova**, focused on fast load times, responsive layout, and clear conversion paths.
+Landing page designed and developed for **EPINOVA**, a Riyadh-based precision-oncology startup using AI and DNA-methylation biomarkers for earlier cancer detection.
 
-<!-- TODO: add a screenshot -->
+<!-- TODO: add a screenshot, e.g. ![EPINOVA](./assets/epinova.png) -->
 
-**Stack:** Next.js · React <!-- TODO: add Tailwind / CSS framework, hosting (Vercel?), CMS if any -->
+**Stack:** Next.js · React <!-- TODO: add Tailwind / animation lib / hosting if you want -->
 
 **Highlights**
-- Fully responsive, mobile-first layout
-- [Lighthouse performance / SEO score if you have it]
-- [Contact / lead-capture form integration, if applicable]
+- Multi-section narrative layout (Fusion → Intelligence → Data Flow → Vision → Roadmap → Ecosystem) with smooth anchor navigation
+- Video hero and optimized images via Next.js Image
+- Lead-capture form with partnership / pilot / investment intent routing, plus LEAP 2026 event CTA
+- Full SEO metadata (Open Graph, Twitter cards) and mobile-first responsive design
 
 ---
 
