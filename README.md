@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&lines=IT+Instructor;Data+Analyst;Python+Developer;Exploring+AI+%26+Machine+Learning;Cybersecurity+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&lines=QA+%26+Quality+Control+Specialist;Full-Stack+Developer;Data+Analyst;Exploring+AI+%26+Machine+Learning;Cybersecurity+Enthusiast)
 
 </div>
 
@@ -10,67 +10,92 @@
 
 ## 💻 About Me
 
-I'm an **IT Instructor and Technology Enthusiast** based in Saudi Arabia with strong interests in:
+I'm a **QA & Quality Control Specialist and Full-Stack Developer** based in Saudi Arabia. I build and ship web products end to end, and I care about making sure they actually work — from test planning and defect tracking to production release.
 
+My interests span:
+
+- ✅ Quality Assurance, Test Strategy & Process Improvement
+- 🌐 Full-Stack Web Development (Next.js · Node.js · PostgreSQL)
 - 📊 Data Analysis & Data Visualization
-- 🐍 Python Programming
 - 🤖 Artificial Intelligence & Machine Learning
 - 🔐 Cybersecurity & Network Security
-- 💻 Software Development
-
-I enjoy **teaching technical concepts**, building **data-driven projects**, and continuously improving my skills in **modern technologies and AI systems**.
 
 ---
 
-## 👨‍🏫 Professional Experience
+## 🧪 Professional Experience
 
-### IT Instructor
-📍 Jeddah International Institute for Training
+### QA & Quality Control Specialist
+📍 [Company Name] <!-- TODO: add your current employer -->
 
-Responsible for delivering technical training in areas such as:
+Responsible for quality across the software delivery lifecycle:
 
-- Python Programming
-- Cybersecurity Fundamentals
-- Network Security Principles
-- Microsoft Office & Data Analysis
-- Windows Server Administration
+- Writing and executing test plans, test cases, and acceptance criteria
+- Manual and exploratory testing of web applications
+- Defect tracking, triage, and root-cause analysis with development teams
+- Quality metrics, release readiness reviews, and process improvement
+- Aligning quality processes with **ISO 27001** and **COBIT** frameworks
 
-I design **hands-on labs, practical exercises, and real-world scenarios** to help students build practical technical skills.
+<!-- TODO: add 1–2 quantified outcomes, e.g. "Reduced post-release defects by X%" -->
 
 ---
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
+
+### 📬 WorkPulse — SaaS Product
+**[Live App →](https://workpulse.example.com)** · **[Repository →](https://github.com/Ozy2022/workpulse)** <!-- TODO: replace with real URLs -->
+
+A full production **SaaS application** built and shipped end to end — from database schema and API design to UI, authentication, and deployment.
+
+<!-- TODO: add a screenshot, e.g. ![WorkPulse](./assets/workpulse.png) -->
+
+**Stack:** Next.js · React · Node.js · Express · PostgreSQL (Neon) · Prisma
+
+**Highlights**
+<!-- TODO: replace with real details -->
+- [Core feature 1 — e.g. multi-tenant workspaces with role-based access]
+- [Core feature 2 — e.g. email/notification pipeline]
+- [Core feature 3 — e.g. subscription billing, dashboards, etc.]
+- Type-safe data layer with Prisma on serverless Postgres (Neon)
+
+---
+
+### 🏢 Epinova — Company Landing Page
+**[Live Site →](https://epinova.example.com)** · **[Repository →](https://github.com/Ozy2022/epinova-landing)** <!-- TODO: replace with real URLs -->
+
+Marketing landing page designed and developed for **Epinova**, focused on fast load times, responsive layout, and clear conversion paths.
+
+<!-- TODO: add a screenshot -->
+
+**Stack:** Next.js · React <!-- TODO: add Tailwind / CSS framework, hosting (Vercel?), CMS if any -->
+
+**Highlights**
+- Fully responsive, mobile-first layout
+- [Lighthouse performance / SEO score if you have it]
+- [Contact / lead-capture form integration, if applicable]
+
+---
 
 ### 🚗 Car Sales Data Analysis
-**[View Repository →](https://github.com/Ozy2022/car-sales-analysis)** <!-- TODO: replace with the actual repo URL -->
+**[Repository →](https://github.com/Ozy2022/car-sales-analysis)** <!-- TODO: replace with real URL -->
 
-End-to-end **data analysis project** exploring pricing trends, resale values, and brand performance across manufacturers.
-
-<!-- TODO: add a screenshot of your best chart here, e.g.:
-![Car Sales Dashboard](./assets/car-sales-overview.png)
--->
+End-to-end **data analysis project** exploring pricing trends, resale values, and brand performance.
 
 **Tools:** Python · Pandas · Matplotlib
 
 **Key Findings**
-<!-- TODO: replace the bracketed placeholders with your real numbers -->
-- [Brand X] retains the highest resale value at roughly [Y]% after [Z] years, while [Brand W] depreciates fastest
-- [Segment, e.g. SUVs] account for [N]% of total sales volume despite representing only [M]% of listed models
-- Manufacturer pricing strategies cluster into [three] distinct tiers, with [describe the gap]
-- [One more concrete, quantified insight]
+<!-- TODO: replace bracketed placeholders with real numbers -->
+- [Brand X] retains the highest resale value at roughly [Y]% after [Z] years
+- [Segment] accounts for [N]% of total sales volume
+- Manufacturer pricing strategies cluster into [three] distinct tiers
 
 ---
 
-### 🌍 COVID-19 Data Analysis Project
-**[View Repository →](https://github.com/Ozy2022/covid19-analysis)** <!-- TODO: replace with the actual repo URL -->
+### 🌍 COVID-19 Data Analysis
+**[Repository →](https://github.com/Ozy2022/covid19-analysis)** <!-- TODO: replace with real URL -->
 
 Data exploration and visualization project using global COVID-19 datasets.
 
-<!-- TODO: add a Tableau Public link or dashboard screenshot here -->
-
 **Tools:** SQL · Tableau · Python · Pandas
-
-**Project Phases**
 
 | Phase | Description | Status |
 |------|-------------|------|
@@ -83,17 +108,24 @@ Data exploration and visualization project using global COVID-19 datasets.
 
 ## 🧠 Technical Skills
 
-**Programming**
-Python · SQL · JavaScript (Basic)
+**Quality Assurance**
+Test Planning & Test Case Design · Manual & Exploratory Testing · Defect Tracking & Triage · Release Readiness · Process Improvement · ISO 27001 / COBIT alignment
+<!-- TODO: add tools you use, e.g. Jira, Postman, Playwright, Cypress -->
 
-**Data & Analytics**
-Pandas · NumPy · Matplotlib · Tableau · Excel for Data Analysis
+**Frontend**
+React · Next.js · JavaScript · HTML / CSS
+
+**Backend & Database**
+Node.js · Express · PostgreSQL (Neon) · Prisma · REST APIs · Firebase (Basic)
+
+**Programming & Data**
+Python · SQL · Pandas · NumPy · Matplotlib · Tableau · Excel for Data Analysis
 
 **Cybersecurity & Networking**
 Network Security Principles · OSPF Routing · Firewall Policies · SOC Concepts · Incident Response Basics
 
-**Tools & Technologies**
-Git & GitHub · Jupyter Notebook · Docker (Basic) · Firebase (Basic) · Linux
+**Tools**
+Git & GitHub · Jupyter Notebook · Docker (Basic) · Linux
 
 ---
 
@@ -107,11 +139,11 @@ Git & GitHub · Jupyter Notebook · Docker (Basic) · Firebase (Basic) · Linux
 
 ---
 
-## 🚀 Current Learning Focus
+## 📖 Current Learning Focus
 
+- Test Automation (Playwright / Cypress)
 - Machine Learning Fundamentals
 - Advanced Python for Data Science
-- Data Engineering Concepts
 - AI Tools & LLM Applications
 
 ---
@@ -141,4 +173,4 @@ Git & GitHub · Jupyter Notebook · Docker (Basic) · Firebase (Basic) · Linux
 
 ---
 
-⭐ **Open to collaborations in AI, Data Analysis, and Software Development**
+⭐ **Open to collaborations in SaaS Development, QA, Data Analysis, and AI**
