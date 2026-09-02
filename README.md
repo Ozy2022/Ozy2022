@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&lines=QA+%26+Quality+Control+Specialist;Full-Stack+Developer;Data+Analyst;Exploring+AI+%26+Machine+Learning;Cybersecurity+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&lines=QA+%26+Quality+Control+Specialist;Full-Stack+Developer;AI+Solutions+Builder;LLM+%26+Machine+Learning;Cybersecurity+Enthusiast)
 
 </div>
 
@@ -10,14 +10,14 @@
 
 ## 💻 About Me
 
-I'm a **QA & Quality Control Specialist and Full-Stack Developer** based in Saudi Arabia. I build and ship web products end to end, and I care about making sure they actually work — from test planning and defect tracking to production release.
+I'm a **QA & Quality Control Specialist, Full-Stack Developer, and AI Solutions Builder** based in Saudi Arabia. I build and ship web products end to end, integrate AI and LLM capabilities into real applications, and care about making sure they actually work — from test planning and defect tracking to production release.
 
 My interests span:
 
 - ✅ Quality Assurance, Test Strategy & Process Improvement
 - 🌐 Full-Stack Web Development (Next.js · Node.js · PostgreSQL)
-- 📊 Data Analysis & Data Visualization
-- 🤖 Artificial Intelligence & Machine Learning
+- 🤖 AI Solutions — LLM Integration, Automation & Intelligent Features
+- 🧠 Machine Learning & Data-Driven Insights
 - 🔐 Cybersecurity & Network Security
 
 ---
@@ -75,10 +75,10 @@ Marketing landing page designed and developed for **Epinova**, focused on fast l
 
 ---
 
-### 🚗 Car Sales Data Analysis
+### 🚗 Car Sales Analysis
 **[Repository →](https://github.com/Ozy2022/car-sales-analysis)** <!-- TODO: replace with real URL -->
 
-End-to-end **data analysis project** exploring pricing trends, resale values, and brand performance.
+Exploratory **analytics project** examining pricing trends, resale values, and brand performance.
 
 **Tools:** Python · Pandas · Matplotlib
 
@@ -118,8 +118,12 @@ React · Next.js · JavaScript · HTML / CSS
 **Backend & Database**
 Node.js · Express · PostgreSQL (Neon) · Prisma · REST APIs · Firebase (Basic)
 
-**Programming & Data**
-Python · SQL · Pandas · NumPy · Matplotlib · Tableau · Excel for Data Analysis
+**AI Solutions**
+LLM Integration (OpenAI / Anthropic APIs) · Prompt Engineering · AI-Powered Automation · Machine Learning Fundamentals · Python
+<!-- TODO: add frameworks you use, e.g. LangChain, RAG / vector DBs, Hugging Face -->
+
+**Data**
+SQL · Pandas · NumPy · Matplotlib · Tableau · Excel
 
 **Cybersecurity & Networking**
 Network Security Principles · OSPF Routing · Firewall Policies · SOC Concepts · Incident Response Basics
@@ -141,10 +145,10 @@ Git & GitHub · Jupyter Notebook · Docker (Basic) · Linux
 
 ## 📖 Current Learning Focus
 
-- Test Automation (Playwright / Cypress)
+- Building AI Agents & RAG Applications
 - Machine Learning Fundamentals
-- Advanced Python for Data Science
-- AI Tools & LLM Applications
+- Test Automation (Playwright / Cypress)
+- Advanced Python for AI Development
 
 ---
 
@@ -173,4 +177,4 @@ Git & GitHub · Jupyter Notebook · Docker (Basic) · Linux
 
 ---
 
-⭐ **Open to collaborations in SaaS Development, QA, Data Analysis, and AI**
+⭐ **Open to collaborations in AI Solutions, SaaS Development, and QA**
