@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&lines=QA+%26+Quality+Control+Specialist;Full-Stack+Developer;AI+Solutions+Builder;LLM+%26+Machine+Learning;Cybersecurity+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;QA+%26+Quality+Control+Specialist;Full-Stack+Developer;AI+Solutions+Builder;Cybersecurity+Enthusiast)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 💻 About Me
 
-I'm a **QA & Quality Control Specialist, Full-Stack Developer, and AI Solutions Builder** based in Saudi Arabia. I build and ship web products end to end, integrate AI and LLM capabilities into real applications, and care about making sure they actually work — from test planning and defect tracking to production release.
+I'm a **Software Engineer | QA & Quality Control Specialist | AI Solutions Builder** based in Saudi Arabia. I build and ship web products end to end, integrate AI and LLM capabilities into real applications, and care about making sure they actually work — from test planning and defect tracking to production release.
 
 My interests span:
 
