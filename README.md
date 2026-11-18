@@ -7,7 +7,7 @@
 [![Live — WorkPulse](https://img.shields.io/badge/Live-WorkPulse-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://www.workpulses.app/)
 [![Live — Epinova](https://img.shields.io/badge/Live-Epinova.co-10B981?style=flat-square&logo=nextdotjs&logoColor=white)](https://epinova.co/)
 [![Location](https://img.shields.io/badge/Jeddah-Saudi_Arabia-006C35?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-albaydhani-04a31b227/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-albaydhani/)
 
 </div>
 
@@ -184,7 +184,7 @@ Git & GitHub · Jupyter Notebook · Docker (basic) · Linux
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-albaydhani-04a31b227/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-albaydhani/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ozy2022)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.os.2026@gmail.com)
 
