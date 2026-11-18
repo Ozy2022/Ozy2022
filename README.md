@@ -59,7 +59,7 @@ A production **SaaS platform** that brings projects, tasks, discussions, and rep
 ### 🏥 MedStock — Offline-first Hospital Inventory & Store Management
 
 <a href="https://github.com/Ozy2022/MedStock">
-  <img src="https://raw.githubusercontent.com/Ozy2022/MedStock/main/screenshots/01-dashboard.jpg" width="820" alt="MedStock dashboard" />
+  <img src="https://raw.githubusercontent.com/Ozy2022/MedStock/main/screenshots/02-requests-list.jpg" width="820" alt="MedStock requests — departments ask, the store approves" />
 </a>
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
