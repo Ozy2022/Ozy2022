@@ -157,10 +157,13 @@ Git & GitHub · Jupyter Notebook · Docker (basic) · Linux
 
 ## 📖 Current Learning Focus
 
-- Building AI Agents & RAG applications
-- Software QA & test automation (Playwright / Cypress)
-- Advanced Python for AI development
-- Secure-by-default engineering & secrets management
+🎯 Going all-in on the **AI / Machine Learning Engineer path** — currently working through the [**Complete A.I. Machine Learning & Data Science: Zero to Mastery**](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/) bootcamp (Andrei Neagoie & Daniel Bourke).
+
+- **Data science foundations** — NumPy · Pandas · Matplotlib / Seaborn for exploration, cleaning, and visualization
+- **Machine learning with Scikit-Learn** — regression, classification & time series; model evaluation, cross-validation, and hyperparameter tuning
+- **Deep learning** — neural networks, transfer learning, and image classification with TensorFlow 2 / Keras
+- **End-to-end ML workflow** — framing a problem → training → evaluating → presenting results (Jupyter · Google Colab · Kaggle)
+- **Applying it** — connecting ML skills to AI agents & RAG applications inside real products
 
 ---
 
