@@ -32,7 +32,7 @@ What I focus on:
 ### 📬 WorkPulse — Arabic-first Project Management SaaS
 
 <a href="https://www.workpulses.app/">
-  <img src="https://raw.githubusercontent.com/Ozy2022/WorkPulse/main/screenshots/02-dashboard.jpg" width="820" alt="WorkPulse dashboard" />
+  <img src="https://raw.githubusercontent.com/Ozy2022/WorkPulse/main/screenshots/01-landing.jpg" width="820" alt="WorkPulse — Arabic-first project management SaaS" />
 </a>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
